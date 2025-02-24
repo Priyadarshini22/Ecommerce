@@ -1,0 +1,75 @@
+.carousel-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .product-image {
+    max-width: 100%;
+    height: auto;
+    width: 300px; /* You can adjust the size as per your design */
+    transition: transform 0.3s ease;
+  }
+  
+   .latest-products button {
+    background-color: transparent;
+    border: none;
+    font-size: 2rem;
+    color: #000;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+  }
+  
+  .intro button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .intro button:hover {
+    background-color: #0056b3;
+  }
+
+  .prev-btn {
+    left: 10px;
+  }
+  
+  .next-btn {
+    right: 10px;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+
+
+
+  .home {
+    padding: 40px;
+  }
+  
+  .intro {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+
+  .home button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .intro home:hover {
+    background-color: #0056b3;
+  }
+  

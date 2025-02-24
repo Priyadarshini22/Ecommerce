@@ -1,0 +1,102 @@
+/* src/styles/Checkout.css */
+
+.checkout {
+    width: 100%;
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+  }
+  
+  .checkout h2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 30px;
+    color: #333;
+  }
+  
+  .checkout input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+    box-sizing: border-box;
+    transition: all 0.3s ease;
+  }
+  
+  .checkout input[type="text"]:focus {
+    border-color: #4CAF50;
+    outline: none;
+    box-shadow: 0 0 8px rgba(72, 168, 88, 0.3);
+  }
+  
+  .checkout input[type="text"]::placeholder {
+    color: #aaa;
+  }
+  
+  .checkout p {
+    margin: 5px 0;
+    font-weight: bold;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .checkout button {
+    width: 100%;
+    padding: 15px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+  }
+  
+  .checkout button:hover {
+    background-color: #45a049;
+  }
+  
+  .checkout button:active {
+    background-color: #388e3c;
+  }
+  
+  .checkout .card-element {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  /* Add some spacing for the last input to match the overall layout */
+  .checkout input[type="text"]:last-child {
+    margin-bottom: 0;
+  }
+  
+  /* Ensure card element has adequate padding */
+  .checkout .StripeElement {
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+  }
+  
+  /* Mobile Responsiveness: Adjust form width on small screens */
+  @media (max-width: 600px) {
+    .checkout {
+      padding: 15px;
+    }
+  
+    .checkout h2 {
+      font-size: 20px;
+    }
+  }
+  

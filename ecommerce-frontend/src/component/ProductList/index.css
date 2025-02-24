@@ -1,0 +1,65 @@
+/* src/styles/ProductList.css */
+
+.product-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 20px;
+  gap: 20px; /* Added gap to create consistent space between cards */
+}
+
+.product-card {
+  width: 250px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover transition */
+}
+
+.product-card:hover {
+  transform: scale(1.05); /* Slight zoom effect on hover */
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2); /* Enhance shadow on hover */
+}
+
+.product-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-bottom: 1px solid #ddd; /* Border below image for separation */
+}
+
+.product-card h3 {
+  padding: 10px;
+  font-size: 1.2rem;
+  color: #007BFF;
+  font-weight: bold;
+}
+
+.product-card p {
+  padding: 0 10px 10px;
+  color: #555;
+  font-size: 0.95rem;
+}
+
+.product-card button {
+  padding: 10px;
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-bottom: 10px;
+}
+
+.product-card button:hover {
+  background-color: #45a049;
+}
+
+.product-card button:active {
+  background-color: #388e3c;
+}

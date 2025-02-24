@@ -1,0 +1,400 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\datamodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\datamodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\datamodels\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\datamodels\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\datamodels\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\datamodels\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\datamodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\datamodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\datamodels\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\datamodels\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\datamodels\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\datamodels\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\datamodels\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\datamodels\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\migrations\\20250219034511_newcolumnadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\migrations\\20250219034511_newcolumnadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\migrations\\20250215045127_checknew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\migrations\\20250215045127_checknew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\migrations\\20250215005715_changesinregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\migrations\\20250215005715_changesinregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\migrations\\20250215002422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\migrations\\20250215002422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|c:\\users\\priyadarshani\\source\\repos\\ecommerce\\ecomapi\\ecomapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD90688-F02D-4D92-ABC6-3CD5ECB3D704}|ecomApi\\ecomApi.csproj|solutionrelative:ecomapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 123,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1709528779:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1139089979:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1100106937:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:693125831:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:505619844:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:323948898:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1735645259:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Program.cs",
+              "RelativeDocumentMoniker": "ecomApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Program.cs",
+              "RelativeToolTip": "ecomApi\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:33:31.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\Product.cs",
+              "RelativeDocumentMoniker": "ecomApi\\DataModels\\Product.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\Product.cs",
+              "RelativeToolTip": "ecomApi\\DataModels\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T00:06:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ecomApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ecomApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAcwKQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:34:49.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "ecomApi\\DataModels\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\RegisterRequest.cs",
+              "RelativeToolTip": "ecomApi\\DataModels\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:59:43.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\Role.cs",
+              "RelativeDocumentMoniker": "ecomApi\\DataModels\\Role.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\Role.cs",
+              "RelativeToolTip": "ecomApi\\DataModels\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:53:15.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ecomApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ecomApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T00:06:54.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ecomApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ecomApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAswFcAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T00:07:27.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250219034511_newColumnAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Migrations\\20250219034511_newColumnAdded.cs",
+              "RelativeDocumentMoniker": "ecomApi\\Migrations\\20250219034511_newColumnAdded.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Migrations\\20250219034511_newColumnAdded.cs",
+              "RelativeToolTip": "ecomApi\\Migrations\\20250219034511_newColumnAdded.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:56:32.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "ecomApi\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "ecomApi\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwF4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T00:07:29.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\Order.cs",
+              "RelativeDocumentMoniker": "ecomApi\\DataModels\\Order.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\Order.cs",
+              "RelativeToolTip": "ecomApi\\DataModels\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:54:31.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DBContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ecomApi\\DBContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DBContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ecomApi\\DBContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:01:39.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\User.cs",
+              "RelativeDocumentMoniker": "ecomApi\\DataModels\\User.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\User.cs",
+              "RelativeToolTip": "ecomApi\\DataModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:12:55.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\Payment.cs",
+              "RelativeDocumentMoniker": "ecomApi\\DataModels\\Payment.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\Payment.cs",
+              "RelativeToolTip": "ecomApi\\DataModels\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:54:34.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\PaymentRequest.cs",
+              "RelativeDocumentMoniker": "ecomApi\\DataModels\\PaymentRequest.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\PaymentRequest.cs",
+              "RelativeToolTip": "ecomApi\\DataModels\\PaymentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:54:40.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250215005715_changesInRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Migrations\\20250215005715_changesInRegister.cs",
+              "RelativeDocumentMoniker": "ecomApi\\Migrations\\20250215005715_changesInRegister.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Migrations\\20250215005715_changesInRegister.cs",
+              "RelativeToolTip": "ecomApi\\Migrations\\20250215005715_changesInRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:03:38.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ecomApi\\DataModels\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\DataModels\\LoginRequest.cs",
+              "RelativeToolTip": "ecomApi\\DataModels\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T00:04:05.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250215045127_checknew.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Migrations\\20250215045127_checknew.cs",
+              "RelativeDocumentMoniker": "ecomApi\\Migrations\\20250215045127_checknew.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Migrations\\20250215045127_checknew.cs",
+              "RelativeToolTip": "ecomApi\\Migrations\\20250215045127_checknew.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:51:40.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ecomApi\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Services\\JwtService.cs",
+              "RelativeToolTip": "ecomApi\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T01:18:03.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250215002422_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Migrations\\20250215002422_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ecomApi\\Migrations\\20250215002422_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Priyadarshani\\source\\repos\\Ecommerce\\ecomApi\\ecomApi\\Migrations\\20250215002422_InitialCreate.cs",
+              "RelativeToolTip": "ecomApi\\Migrations\\20250215002422_InitialCreate.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAgwAoBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T00:25:26.08Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 126,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:952421293:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:493069858:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1342775388:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

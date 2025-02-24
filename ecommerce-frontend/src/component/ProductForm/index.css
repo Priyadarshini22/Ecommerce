@@ -1,0 +1,89 @@
+.add-product-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-product-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .add-product-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-product-container input,
+  .add-product-container textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    outline: none;
+  }
+  
+  .add-product-container input:focus,
+  .add-product-container textarea:focus {
+    border-color: #007BFF;
+  }
+  
+  .add-product-container textarea {
+    resize: vertical;
+    min-height: 150px;
+  }
+  
+  .add-product-container button {
+    padding: 10px;
+    font-size: 1.1rem;
+    color: white;
+    background-color: #28a745;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .add-product-container button:hover {
+    background-color: #218838;
+  }
+  
+  .add-product-container .form-group {
+    margin-bottom: 15px;
+  }
+
+  /* .add-product-container input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0px;
+  } */
+
+  .add-product-container input, textarea {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .add-product-container input:focus {
+    border-color: #007BFF;
+    outline: none;
+  }
+  
+  .error-message {
+    color: red;
+    background-color: #f8d7da;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #f5c6cb;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
